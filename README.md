@@ -28,13 +28,11 @@ O conjunto de dados utilizado é o "Video Game Sales with Ratings" disponível n
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <link-do-seu-repositorio>
-    cd seu-projeto-pandas
+    git clone https://github.com/DilleyAndrade/Analise-de-Vendas-de-Jogos.git
+    cd analise_venda_de_jogos_pandas
     ```
 2.  **Instale as dependências:**
     ```bash
-    pip install pandas matplotlib jupyter
-    ```
 3.  **Execute o Jupyter Notebook:**
     ```bash
     jupyter notebook
@@ -48,7 +46,6 @@ O conjunto de dados utilizado é o "Video Game Sales with Ratings" disponível n
 - Python
 - Pandas
 - Jupyter Notebook
-- Matplotlib
 
 ---
 
