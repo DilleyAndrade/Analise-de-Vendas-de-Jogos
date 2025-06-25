@@ -33,7 +33,7 @@ O conjunto de dados utilizado é o "Video Game Sales with Ratings" disponível n
     ```
 2.  **Instale as dependências:**
     ```bash
-    pip intall pandas
+    pip install pandas
     ```
 3.  **Execute o Jupyter Notebook:**
     ```bash
